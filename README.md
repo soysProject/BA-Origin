@@ -5,6 +5,7 @@
 <div align=center>
 <img src="https://github.com/BlueArchiveCN/.github/raw/master/reseller.svg" />
 </div>
+请勿在公开的社交媒体上分享以及传播。
 
 ## 效果图
 
