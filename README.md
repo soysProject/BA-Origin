@@ -5,7 +5,9 @@
 <div align=center>
 <img src="https://github.com/BlueArchiveCN/.github/raw/master/reseller.svg" />
 </div>
-请勿在公开的社交媒体上分享以及传播。
+**<span style="color:red;">请勿在公开的社交媒体上分享以及传播。</span>**
+**<span style="color:red;">请勿在公开的社交媒体上分享以及传播。</span>**
+**<span style="color:red;">请勿在公开的社交媒体上分享以及传播。</span>**
 
 ## 效果图
 
@@ -15,8 +17,8 @@
 
 **安卓**如何使用：   
 
-1. 打开你的手机文件管理器，（推荐用`MT管理器`）如果找不到的[从这里下载](https://mt2.cn/download/)   
-2. 定位到 `Android/data/com.RoamingStar.BlueArchive/files/AssetBundls`   
+1. 打开你的手机文件管理器，（推荐用`MT管理器`）如果找不到的[从这里下载](https://mt2.cn/download/)；用其他文件管理软件亦可。但请注意，高版本安卓访问`Android/data`目录下文件需对对应目录进行授权，否则无法打开。
+2. . 定位到 `Android/data/com.RoamingStar.BlueArchive/files/AssetBundls`   
    **不会定位**？    
      打开MT管理器，点击最上面的`/storage/emulated/0/` ，在弹出来的“跳转”框中在`0/`的后面粘贴`Android/data/com.RoamingStar.BlueArchive/files/AssetBundls`并点击确定即可   
      要**授权**？   
