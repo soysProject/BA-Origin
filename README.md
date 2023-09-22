@@ -5,9 +5,9 @@
 <div align=center>
 <img src="https://github.com/BlueArchiveCN/.github/raw/master/reseller.svg" />
 </div>
-**<span style="color:red;">请勿在公开的社交媒体上分享以及传播。</span>**
-**<span style="color:red;">请勿在公开的社交媒体上分享以及传播。</span>**
-**<span style="color:red;">请勿在公开的社交媒体上分享以及传播。</span>**
+**请勿在公开的社交媒体上分享以及传播。**
+**请勿在公开的社交媒体上分享以及传播。**
+**请勿在公开的社交媒体上分享以及传播。**
 
 ## 效果图
 
